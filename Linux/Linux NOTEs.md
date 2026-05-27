@@ -1,4 +1,4 @@
-# Linux for DevOps – Complete Beginner's Guide (With Commands & Examples)>
+# Linux for DevOps – Complete Beginner's Guide (With Commands & Examples)
 
  **Who is this for?**  
 > This guide is for anyone starting their DevOps journey who wants to learn Linux from scratch .
