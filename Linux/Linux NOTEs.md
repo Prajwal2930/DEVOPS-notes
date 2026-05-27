@@ -1,3 +1,6 @@
+![Alt Text](../ASSETS/linux%20thumbnail.png)
+
+
 # Linux for DevOps – Complete Beginner's Guide (With Commands & Examples)
 
  **Who is this for?**  
@@ -144,7 +147,7 @@ Install Linux alongside Windows on the same machine.
 
 Linux is made of three layers. Think of it like an onion:
 
-![](https://cdn.hashnode.com/uploads/covers/6a16afe718745e9b1d7d91ba/496da424-7629-4a5b-bcd0-bcc5eaf28f4d.png align="center")
+![Alt Text](../ASSETS/LIinux-architecture.png)
 
 **Kernel:**
 
@@ -615,7 +618,7 @@ SSH uses a **key pair** system:
 
 When you connect, the server checks if your private key matches the public key. If yes — you're in.
 
-![](https://cdn.hashnode.com/uploads/covers/6a16afe718745e9b1d7d91ba/40771a02-76e2-4a1b-81ee-6e567e9f6b31.png align="center")
+![Alt Text](../ASSETS/SSH%20LOGIN.png)
 
 ### SSH from Local to EC2
 
